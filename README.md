@@ -1,4 +1,4 @@
-# RPG-41
+# Food Wars
 Final Video Game Project for CSCI41
 
 
